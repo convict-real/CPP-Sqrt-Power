@@ -1,7 +1,7 @@
-# Number Types
+# Square root and power
 
-A number types calculator, written in C++.
+A number square root and power calculator, written in C++.
 
 ### Information
-* Written using VSCode
+* Written using Emacs 29
 * Written with the latest version of c++
